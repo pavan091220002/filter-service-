@@ -4,7 +4,7 @@
 1. Clone the Repository:
 
 git clone <repository_url>
-cd filter-service
+cd filter-service-
 
 2. Install Dependencies:
 Ensure you have Python 3.7+ installed. Then, install the required dependencies:
