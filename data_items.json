@@ -1,0 +1,828 @@
+[
+    {
+        "id": "1",
+        "name": "Floral Summer Dress",
+        "category": "dresses",
+        "price": 129.99,
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "pink"
+        ],
+        "designer": "Luna Bloom",
+        "rating": 4.5
+    },
+    {
+        "id": "2",
+        "name": "Classic Leather Pumps",
+        "category": "shoes",
+        "price": 199.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "black",
+            "red"
+        ],
+        "designer": "Stellar Steps",
+        "rating": 4.8
+    },
+    {
+        "id": "3",
+        "name": "Pearl Statement Necklace",
+        "category": "jewelry",
+        "price": 89.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "white",
+            "pink"
+        ],
+        "designer": "Gem Essence",
+        "rating": 4.7
+    },
+    {
+        "id": "4",
+        "name": "Leather Tote Bag",
+        "category": "bags",
+        "price": 299.99,
+        "size": [
+            "L"
+        ],
+        "color": [
+            "black",
+            "blue"
+        ],
+        "designer": "Urban Carry",
+        "rating": 4.9
+    },
+    {
+        "id": "5",
+        "name": "Silk Evening Gown",
+        "category": "dresses",
+        "price": 599.99,
+        "size": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "color": [
+            "red",
+            "black"
+        ],
+        "designer": "Luna Bloom",
+        "rating": 5.0
+    },
+    {
+        "id": "6",
+        "name": "Crystal Hair Clip",
+        "category": "accessories",
+        "price": 49.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "black",
+            "pink"
+        ],
+        "designer": "Gem Essence",
+        "rating": 4.3
+    },
+    {
+        "id": "7",
+        "name": "Denim Jacket",
+        "category": "jackets",
+        "price": 79.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Denim Dreams",
+        "rating": 4.6
+    },
+    {
+        "id": "8",
+        "name": "Suede Ankle Boots",
+        "category": "shoes",
+        "price": 149.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Comfy Steps",
+        "rating": 4.7
+    },
+    {
+        "id": "9",
+        "name": "Gold Hoop Earrings",
+        "category": "jewelry",
+        "price": 59.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "gold"
+        ],
+        "designer": "Golden Glow",
+        "rating": 4.5
+    },
+    {
+        "id": "10",
+        "name": "Canvas Backpack",
+        "category": "bags",
+        "price": 99.99,
+        "size": [
+            "M",
+            "L"
+        ],
+        "color": [
+            "green",
+            "blue"
+        ],
+        "designer": "Adventure Gear",
+        "rating": 4.8
+    },
+    {
+        "id": "11",
+        "name": "Velvet Blazer",
+        "category": "jackets",
+        "price": 129.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "black",
+            "navy"
+        ],
+        "designer": "Elegant Wear",
+        "rating": 4.9
+    },
+    {
+        "id": "12",
+        "name": "Beaded Bracelet",
+        "category": "jewelry",
+        "price": 39.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "multi",
+            "black"
+        ],
+        "designer": "Beaded Beauty",
+        "rating": 4.4
+    },
+    {
+        "id": "13",
+        "name": "Cotton T-Shirt",
+        "category": "tops",
+        "price": 29.99,
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "white",
+            "black",
+            "gray"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.6
+    },
+    {
+        "id": "14",
+        "name": "Leather Belt",
+        "category": "accessories",
+        "price": 49.99,
+        "size": [
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Classic Leather",
+        "rating": 4.7
+    },
+    {
+        "id": "15",
+        "name": "Silk Scarf",
+        "category": "accessories",
+        "price": 69.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "red",
+            "blue"
+        ],
+        "designer": "Silk Elegance",
+        "rating": 4.8
+    },
+    {
+        "id": "16",
+        "name": "Wool Coat",
+        "category": "jackets",
+        "price": 199.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "gray",
+            "black"
+        ],
+        "designer": "Winter Warmth",
+        "rating": 4.9
+    },
+    {
+        "id": "17",
+        "name": "Linen Pants",
+        "category": "bottoms",
+        "price": 89.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "beige",
+            "white"
+        ],
+        "designer": "Summer Breeze",
+        "rating": 4.5
+    },
+    {
+        "id": "18",
+        "name": "Sports Watch",
+        "category": "accessories",
+        "price": 129.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "black",
+            "black"
+        ],
+        "designer": "Time Keeper",
+        "rating": 4.7
+    },
+    {
+        "id": "19",
+        "name": "Cashmere Sweater",
+        "category": "tops",
+        "price": 149.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "gray",
+            "beige"
+        ],
+        "designer": "Warm Embrace",
+        "rating": 4.8
+    },
+    {
+        "id": "20",
+        "name": "Leather Wallet",
+        "category": "accessories",
+        "price": 59.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Classic Leather",
+        "rating": 4.6
+    },
+    {
+        "id": "21",
+        "name": "Silk Blouse",
+        "category": "tops",
+        "price": 99.99,
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "white",
+            "blue"
+        ],
+        "designer": "Elegant Silk",
+        "rating": 4.9
+    },
+    {
+        "id": "22",
+        "name": "Running Shoes",
+        "category": "shoes",
+        "price": 119.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "black",
+            "white"
+        ],
+        "designer": "Speed Runner",
+        "rating": 4.7
+    },
+    {
+        "id": "23",
+        "name": "Gold Chain Necklace",
+        "category": "jewelry",
+        "price": 79.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "gold"
+        ],
+        "designer": "Golden Glow",
+        "rating": 4.5
+    },
+    {
+        "id": "24",
+        "name": "Denim Shorts",
+        "category": "bottoms",
+        "price": 49.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Denim Dreams",
+        "rating": 4.6
+    },
+    {
+        "id": "25",
+        "name": "Leather Gloves",
+        "category": "accessories",
+        "price": 69.99,
+        "size": [
+            "M",
+            "L"
+        ],
+        "color": [
+            "black",
+            "blue"
+        ],
+        "designer": "Classic Leather",
+        "rating": 4.7
+    },
+    {
+        "id": "26",
+        "name": "Cotton Dress",
+        "category": "dresses",
+        "price": 79.99,
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "white",
+            "blue"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.8
+    },
+    {
+        "id": "27",
+        "name": "Wool Scarf",
+        "category": "accessories",
+        "price": 39.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "gray",
+            "burgundy"
+        ],
+        "designer": "Winter Warmth",
+        "rating": 4.6
+    },
+    {
+        "id": "28",
+        "name": "Satin Evening Gown",
+        "category": "dresses",
+        "price": 399.99,
+        "size": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "color": [
+            "navy",
+            "black"
+        ],
+        "designer": "Luna Bloom",
+        "rating": 4.9
+    },
+    {
+        "id": "29",
+        "name": "Leather Sandals",
+        "category": "shoes",
+        "price": 89.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Comfy Steps",
+        "rating": 4.7
+    },
+    {
+        "id": "30",
+        "name": "Diamond Stud Earrings",
+        "category": "jewelry",
+        "price": 199.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "black"
+        ],
+        "designer": "Gem Essence",
+        "rating": 4.8
+    },
+    {
+        "id": "31",
+        "name": "Cotton Sweater",
+        "category": "tops",
+        "price": 59.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "beige",
+            "gray"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.5
+    },
+    {
+        "id": "32",
+        "name": "Leather Messenger Bag",
+        "category": "bags",
+        "price": 149.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Urban Carry",
+        "rating": 4.6
+    },
+    {
+        "id": "33",
+        "name": "Silk Pajamas",
+        "category": "sleepwear",
+        "price": 99.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "white",
+            "pink"
+        ],
+        "designer": "Silk Elegance",
+        "rating": 4.7
+    },
+    {
+        "id": "34",
+        "name": "Wool Hat",
+        "category": "accessories",
+        "price": 29.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "gray",
+            "black"
+        ],
+        "designer": "Winter Warmth",
+        "rating": 4.6
+    },
+    {
+        "id": "35",
+        "name": "Leather Briefcase",
+        "category": "bags",
+        "price": 249.99,
+        "size": [
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Urban Carry",
+        "rating": 4.8
+    },
+    {
+        "id": "36",
+        "name": "Cotton Leggings",
+        "category": "bottoms",
+        "price": 39.99,
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "black",
+            "gray"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.5
+    },
+    {
+        "id": "37",
+        "name": "Silk Tie",
+        "category": "accessories",
+        "price": 49.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "blue",
+            "red"
+        ],
+        "designer": "Elegant Silk",
+        "rating": 4.7
+    },
+    {
+        "id": "38",
+        "name": "Leather Jacket",
+        "category": "jackets",
+        "price": 299.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "black",
+            "blue"
+        ],
+        "designer": "Denim Dreams",
+        "rating": 4.8
+    },
+    {
+        "id": "39",
+        "name": "Cotton Tank Top",
+        "category": "tops",
+        "price": 24.99,
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "white",
+            "black"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.6
+    },
+    {
+        "id": "40",
+        "name": "Wool Sweater",
+        "category": "tops",
+        "price": 79.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "gray",
+            "beige"
+        ],
+        "designer": "Winter Warmth",
+        "rating": 4.7
+    },
+    {
+        "id": "41",
+        "name": "Leather Crossbody Bag",
+        "category": "bags",
+        "price": 129.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Urban Carry",
+        "rating": 4.6
+    },
+    {
+        "id": "42",
+        "name": "Silk Robe",
+        "category": "sleepwear",
+        "price": 89.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "white",
+            "pink"
+        ],
+        "designer": "Silk Elegance",
+        "rating": 4.8
+    },
+    {
+        "id": "43",
+        "name": "Cotton Shorts",
+        "category": "bottoms",
+        "price": 29.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.5
+    },
+    {
+        "id": "44",
+        "name": "Wool Coat",
+        "category": "jackets",
+        "price": 199.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "gray",
+            "black"
+        ],
+        "designer": "Winter Warmth",
+        "rating": 4.7
+    },
+    {
+        "id": "45",
+        "name": "Leather Boots",
+        "category": "shoes",
+        "price": 179.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Comfy Steps",
+        "rating": 4.8
+    },
+    {
+        "id": "46",
+        "name": "Silk Scarf",
+        "category": "accessories",
+        "price": 59.99,
+        "size": [
+            "M"
+        ],
+        "color": [
+            "red",
+            "blue"
+        ],
+        "designer": "Silk Elegance",
+        "rating": 4.6
+    },
+    {
+        "id": "47",
+        "name": "Cotton Hoodie",
+        "category": "tops",
+        "price": 49.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "gray",
+            "black"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.7
+    },
+    {
+        "id": "48",
+        "name": "Wool Blazer",
+        "category": "jackets",
+        "price": 149.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": [
+            "navy",
+            "black"
+        ],
+        "designer": "Elegant Wear",
+        "rating": 4.8
+    },
+    {
+        "id": "49",
+        "name": "Leather Belt",
+        "category": "accessories",
+        "price": 49.99,
+        "size": [
+            "M",
+            "L"
+        ],
+        "color": [
+            "blue",
+            "black"
+        ],
+        "designer": "Classic Leather",
+        "rating": 4.6
+    },
+    {
+        "id": "50",
+        "name": "Cotton Joggers",
+        "category": "bottoms",
+        "price": 39.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": [
+            "gray",
+            "black"
+        ],
+        "designer": "Casual Comfort",
+        "rating": 4.5
+    }
+]
