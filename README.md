@@ -3,7 +3,7 @@
 **Setup instructions**
 1. Clone the Repository:
 
-git clone <repository_url>
+git clone gh repo clone pavan091220002/filter-service-
 cd filter-service-
 
 2. Install Dependencies:
